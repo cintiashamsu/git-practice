@@ -2,6 +2,10 @@ def max_value(numbers):
     """ This function returns the largest number
         in the list.
     """
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 2345177370c5449623ad7ceda82baa8626b08c86
     return max(numbers)
 
 
